@@ -79,14 +79,19 @@ td,
 th,
 tr,
 p,
+author{
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 15px;
+  color: #777777;
+}
 a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 strong {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 h2 {
@@ -96,10 +101,17 @@ h2 {
   font-size: 22px;
 }
 
-.papertitle {
+heading {
+  font-family: 'Lato', Calibri, sans-serif;
+  font-size: 22px;
+  color:#333333;
+}
+
+papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 700;
+  color:#333333;
 }
 
 .name {
