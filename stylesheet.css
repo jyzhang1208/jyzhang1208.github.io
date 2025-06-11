@@ -81,46 +81,47 @@ tr,
 p,
 author{
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 16px;
-  color: #555454;
+  font-size: 18px;
+  color: #2c2b2b;
 }
 a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 strong {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 h2 {
   margin: 0;
   font-weight: normal;
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 22px;
+  font-size: 24px;
 }
 
 body {
   margin: 20px 10px; 
   width: 100%;
+  line-height: 1.3;
 }
 
 heading {
   font-family: 'Lato', Calibri, sans-serif;
-  font-size: 22px;
+  font-size: 24px;
   color:#333333;
 }
 
 papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 700;
   color:#333333;
 }
 
 name {
-  padding-top: 20px;
+  padding-top: 24px;
   margin: 0;
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 32px;
