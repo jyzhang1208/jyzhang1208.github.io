@@ -149,6 +149,22 @@ name {
   -webkit-transition: opacity .2s ease-in-out;
 }
 
+p + .subpoints { margin-top: 0; }
+
+.subpoints{
+  margin: 0 0 0 0; 
+  padding-left: 1.2rem; 
+}
+.subpoints li{
+  /* font-size: .95rem;        */
+  margin: 0;
+  line-height: inherit;
+}
+.subpoints li::marker{
+  /* font-size: .6em;           */
+  color: #333333;  
+}
+
 span.highlight {
   background-color: #ffffd0;
 }
